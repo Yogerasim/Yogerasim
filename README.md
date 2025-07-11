@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Philipp 👋</h1>
+<h1 align="center">Hi, I'm Philip 👋</h1>
 
 <p align="center">
 iOS Developer • UIKit • Swift • REST API • SwiftUI  
-I create solutions that actually solve problems.
+I create solutions that actually solve problems 🤝
 </p>
 
 ---
@@ -13,21 +13,6 @@ I create solutions that actually solve problems.
 - ☁️ **REST API integration**
 - 🔐 **OAuth2 / Keychain / URLSession**
 - 🧪 **Clean architecture / Modular code / Async patterns**
-
----
-
-### 🚧 Currently Working On
-
-- iOS app with **UIKit + Unsplash OAuth**
-- Learning advanced app architecture & RESTful service integration
-- Writing a mini-framework for reusable data flow components
-
----
-
-### 🚀 I create solutions that actually work and bring value
-
-I focus on building stable, readable, and scalable code.  
-Product logic, clean UI, real use-cases — not just pixels or features.
 
 ---
 
