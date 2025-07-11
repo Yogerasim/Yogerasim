@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Philip 👋</h1>
 
 <p align="center">
-iOS Developer • UIKit • Swift • REST API • SwiftUI  
+iOS Developer • UIKit • SwiftUI • REST API 
+---
 I create solutions that actually solve problems 🤝
 </p>
 
