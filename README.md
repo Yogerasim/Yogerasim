@@ -14,7 +14,7 @@ I create solutions that actually solve problems 🤝
 - ☁️ **REST API integration**  
 - 🔐 **OAuth2 / Keychain / URLSession**  
 - 🧪 **Clean architecture / Modular code / Async patterns**  
-- 🧠 **Git**
+- - 🔧 **Git** — version control, branching, merging and of course CI/CD workflow
 
 ---
 
