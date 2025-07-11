@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Philip 👋</h1>
+<h1 align="center">Hi, I'm Philip </h1>
 
 <p align="center">
 iOS Developer • UIKit • SwiftUI • REST API 
