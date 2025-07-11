@@ -14,22 +14,15 @@ I create solutions that actually solve problems 🤝
 - ☁️ **REST API integration**
 - 🔐 **OAuth2 / Keychain / URLSession**
 - 🧪 **Clean architecture / Modular code / Async patterns**
+- 🧠 **Git
 
 ---
 
 ### 📌 Featured Projects
 
-- [`AutoCleaner`](https://github.com/Yogerasim/AutoCleaner) — GUI app for memory cleaning via terminal
+- [`AutoCleaner`](https://github.com/Yogerasim/AutoCleaner) — App for memory cleaning via terminal on Mac
 - [`ImageFeed`](https://github.com/Yogerasim/ImageFeed) — iOS app using OAuth2, network layer, and clean architecture
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogerasim&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
-</p>
 
 ---
 
