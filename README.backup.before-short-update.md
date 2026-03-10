@@ -1,25 +1,21 @@
 <h1 align="center">Hi, I'm Philip</h1>
 
 <p align="center">
-iOS Developer • UIKit • SwiftUI • REST API  
+Swift / UIKit / SwiftUI / MVVM / REST API / CoreData / AVFoundation / Metal
 <br/>
-I create solutions that actually solve problems 🤝
+I create solutions that actually solve problems
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-📱 **UIKit / Swift / SwiftUI**  
-☁️ **REST API integration**  
-🔐 **OAuth2 / Keychain / URLSession**  
-🧪 **Clean architecture / Modular code / Async patterns**  
-🔧 **Git** — version control, branching, merging and of course CI/CD workflow
+Swift / UIKit / SwiftUI / MVVM / REST API / JSON / URLSession / OAuth2 / Keychain / CoreData / Combine / AVFoundation / Metal / CoreMedia / CoreVideo / Modular code / Async patterns / Git / CI-CD basics
 
 ---
 
-### 📫 Contact
+### Contact
 
-- Email: yogerrasim@gmail.com  
+- Email: yogerrasim@gmail.com
 
 > Always open to smart teams, tough problems, and meaningful code.
