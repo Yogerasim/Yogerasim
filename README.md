@@ -38,17 +38,6 @@ Git / GitHub Pages / CI-CD basics / Xcode / Blender / Vite
 
 ---
 
-### Featured Projects
-
-- **RayStream** — iOS app concept for streaming smart glasses and camera workflows to local network and external screens.
-- **Lens** — iOS camera app built with Swift, UIKit, Metal, AVFoundation and LiDAR workflows.
-- **WebAR MindAR Three** — browser-based AR experience built with Three.js, MindAR and GitHub Pages deployment.
-- **AutoCleaner Memory Engine** — macOS utility prototype focused on memory diagnostics, cleanup logic and SwiftUI interface.
-- **ImageFeed** — iOS image feed app with OAuth2, REST API, URLSession, Kingfisher and clean architecture.
-- **Tracker** — habit tracker iOS app built with Swift, UIKit, CoreData and MVVM.
-
----
-
 ### Contact
 
 - Email: yogerrasim@gmail.com
